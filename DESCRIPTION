@@ -1,0 +1,10 @@
+Package: MBDutils
+Type: Package
+Title: MBD utilities
+Version: 0.1.0
+Author: Artiel Palomar Coll
+Maintainer: Artiel Palomar Coll <artielpc@gmail.com>
+Description: Funciones de utilidad en MBD
+License: MBD Consultores
+Encoding: UTF-8
+LazyData: true
