@@ -14,8 +14,14 @@
 #   Test Package:              'Ctrl + Shift + T'
 
 hello <- function() {
-  print("Hello, Ester!")
+  print("Hello, world!")
 }
 
 
 # modificación 1
+
+suma <- function(a,b){
+  return(a+b)
+}
+
+
