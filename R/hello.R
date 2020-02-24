@@ -19,3 +19,9 @@ hello <- function() {
 
 
 # modificación 1
+
+suma <- function(a,b){
+  return(a+b)
+}
+
+
